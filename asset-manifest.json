@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lirix_react/static/css/main.4e9b51dc.css",
+    "main.js": "/lirix_react/static/js/main.f1fb52b5.js",
+    "static/js/453.1800949f.chunk.js": "/lirix_react/static/js/453.1800949f.chunk.js",
+    "static/media/lirix_banner1.png": "/lirix_react/static/media/lirix_banner1.2f9b6cfc611d43796b49.png",
+    "index.html": "/lirix_react/index.html",
+    "main.4e9b51dc.css.map": "/lirix_react/static/css/main.4e9b51dc.css.map",
+    "main.f1fb52b5.js.map": "/lirix_react/static/js/main.f1fb52b5.js.map",
+    "453.1800949f.chunk.js.map": "/lirix_react/static/js/453.1800949f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e9b51dc.css",
+    "static/js/main.f1fb52b5.js"
+  ]
+}
